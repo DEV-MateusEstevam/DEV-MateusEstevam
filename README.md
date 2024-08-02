@@ -9,13 +9,13 @@
 <br>
 
 <div align="center"> 
-  
-<a href="https://www.linkedin.com/in/mateus-estevam" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
-</a>
 
 <a href="#" target="_blank">
 <img align="center" alt="Outlook" height="80" width="80" src="https://github.com/user-attachments/assets/bfc08ed9-f750-4361-8e4a-ddf9a6e5d108">
+</a>
+
+<a href="https://www.linkedin.com/in/mateus-estevam" target="_blank">
+<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
 </a>
 
 <a  href="#" target=_blank>
@@ -38,7 +38,7 @@
 <h2 align="left"> Main Skills: </h2>
 <div align="left"> 
   
-<img align="left" alt="Js" height="80" width="80" src="https://github.com/user-attachments/assets/85037698-a2ee-4198-b149-b2f0f6bc74e3">
+<img align="left" alt="Js" height="80" width="80" src="https://github.com/user-attachments/assets/43f32d25-9265-4f35-a3e6-9827f754a83f">
 <img align="left" alt="HTML5" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 <img align="left" alt="Css" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
 <img align="left" alt="Php" height="80" width="80" src="https://github.com/user-attachments/assets/8b5a65df-427d-4926-b39d-93b5419273c5">
