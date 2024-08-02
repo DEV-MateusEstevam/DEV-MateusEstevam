@@ -41,7 +41,7 @@
 <img align="left" alt="Js" height="80" width="80" src="https://github.com/user-attachments/assets/43f32d25-9265-4f35-a3e6-9827f754a83f">
 <img align="left" alt="HTML5" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 <img align="left" alt="Css" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
-<img align="left" alt="Php" height="80" width="80" src="https://github.com/user-attachments/assets/8b5a65df-427d-4926-b39d-93b5419273c5">
+<img align="left" alt="Php" height="80" width="80" src="https://github.com/user-attachments/assets/31c2ec5d-e344-4c5b-a2e3-06648681d608">
 <img align="left" alt="MySql" height="80" width="80" src="https://github.com/user-attachments/assets/82c58444-c958-47cf-aa79-1f7c64c72f7d">
 <img align="left" alt="C" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
