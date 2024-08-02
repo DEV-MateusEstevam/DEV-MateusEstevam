@@ -10,16 +10,12 @@
 
 <div align="center"> 
   
-<a href="www.linkedin.com/in/mateus-estevam" target="_blank">
+<a href="https://www.linkedin.com/in/mateus-estevam" target="_blank">
 <img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
 </a>
 
-<a  href="#" target=_blank>
-<img align="center" alt="Whatsapp" height="80" width="80" src="https://github.com/user-attachments/assets/10aca396-f61b-4158-bea1-69f5958c8d44">
-</a>
-
 <a href="#" target="_blank">
-<img align="center" alt="Outlook" height="80" width="80" src="https://github.com/user-attachments/assets/eb442773-362b-4863-8386-cf1dc6b80b3f">
+<img align="center" alt="Outlook" height="80" width="80" src="https://github.com/user-attachments/assets/bfc08ed9-f750-4361-8e4a-ddf9a6e5d108">
 </a>
 
 <a  href="#" target=_blank>
