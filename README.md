@@ -69,7 +69,7 @@
   
 <img align="left" alt="Python" height="80" width="80" src="https://github.com/user-attachments/assets/61a7d274-8be2-4904-bffe-36f432deb4a7">
 <img align="left" alt="POO" height="80" width="80" src="https://github.com/user-attachments/assets/fcb020a4-e65a-4841-88f9-862209c83602">
-<img align="left" alt="Java" height="80" width="80" src="https://github.com/user-attachments/assets/c483c9ba-8126-42cb-aa99-b161d0686052">
+<img align="left" alt="Java" height="80" width="80" src="https://github.com/user-attachments/assets/aaa7e046-0042-47b9-81a6-85bf903608e7">
 <img align="left" alt="Git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 </div>
