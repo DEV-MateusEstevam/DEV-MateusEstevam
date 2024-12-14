@@ -57,7 +57,7 @@
     <img align="left" alt="VScode" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="left" alt="Bootstrap" height="80" width="80" src="https://github.com/user-attachments/assets/df679458-6bba-4320-bd7e-e805b115a720">
     <img align="left" alt="Git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="left" alt="Android Studio" height="80" width="80" src="https://github.com/user-attachments/assets/529fe18a-5898-4b24-ae7a-0e1e0980f38d">
+    <img align="left" alt="Android Studio" height="80" width="80" src="https://github.com/user-attachments/assets/0e6f8eb6-0932-4835-82d2-4259fca67c04">
 </div>
 <br>
 <br> 
