@@ -45,7 +45,7 @@
 <img align="left" alt="C" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img align="left" alt="Python" height="80" width="80" src="https://github.com/user-attachments/assets/61a7d274-8be2-4904-bffe-36f432deb4a7">
 <img align="left" alt="MySql" height="80" width="80" src="https://github.com/user-attachments/assets/1997f3f3-4cd2-4e6f-b99e-d73280b2ca0a">
-<img align="left" alt="SqLite" height="80" width="80" src="https://github.com/user-attachments/assets/f583f84e-c375-4a9e-9049-ef0c12c1dd2c">
+<img align="left" alt="SqLite" height="80" width="80" src="https://github.com/user-attachments/assets/b78fd868-1005-4f6b-8ac4-c020b03a50af">
 
 </div>
 <br>
