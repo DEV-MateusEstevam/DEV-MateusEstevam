@@ -71,7 +71,7 @@
 <img align="left" alt="Python" height="80" width="80" src="https://github.com/user-attachments/assets/61a7d274-8be2-4904-bffe-36f432deb4a7">
 <img align="left" alt="POO" height="80" width="80" src="https://github.com/user-attachments/assets/27ab2d4a-12db-48d8-aa0c-660a3ed245f9">
 <img align="left" alt="Java" height="80" width="80" src="https://github.com/user-attachments/assets/aaa7e046-0042-47b9-81a6-85bf903608e7">
-<img align="left" alt="Git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="left" alt="Spring" height="80" width="80" src="https://github.com/user-attachments/assets/a435ddf2-bfae-41eb-96c4-e9c6b7e0fb68">
 
 </div>
 
