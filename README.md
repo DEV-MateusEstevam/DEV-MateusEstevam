@@ -47,7 +47,7 @@
 <img align="left" alt="Java" height="80" width="80" src="https://github.com/user-attachments/assets/aaa7e046-0042-47b9-81a6-85bf903608e7">
 <img align="left" alt="POO" height="80" width="80" src="https://github.com/user-attachments/assets/27ab2d4a-12db-48d8-aa0c-660a3ed245f9">
 <img align="left" alt="MySql" height="80" width="80" src="https://github.com/user-attachments/assets/1997f3f3-4cd2-4e6f-b99e-d73280b2ca0a">
-<img align="left" alt="SqLite" height="80" width="80" src="https://github.com/user-attachments/assets/1d5e48ec-9f47-4204-8ffc-ecda72b10d5d">
+<img align="left" alt="SqLite" height="80" width="80" src="https://github.com/user-attachments/assets/f583f84e-c375-4a9e-9049-ef0c12c1dd2c">
 
 </div>
 <br>
