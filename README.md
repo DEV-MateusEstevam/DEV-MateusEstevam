@@ -44,8 +44,6 @@
 <img align="left" alt="Php" height="80" width="80" src="https://github.com/user-attachments/assets/31c2ec5d-e344-4c5b-a2e3-06648681d608">
 <img align="left" alt="C" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img align="left" alt="Python" height="80" width="80" src="https://github.com/user-attachments/assets/61a7d274-8be2-4904-bffe-36f432deb4a7">
-<img align="left" alt="Java" height="80" width="80" src="https://github.com/user-attachments/assets/aaa7e046-0042-47b9-81a6-85bf903608e7">
-<img align="left" alt="POO" height="80" width="80" src="https://github.com/user-attachments/assets/27ab2d4a-12db-48d8-aa0c-660a3ed245f9">
 <img align="left" alt="MySql" height="80" width="80" src="https://github.com/user-attachments/assets/1997f3f3-4cd2-4e6f-b99e-d73280b2ca0a">
 <img align="left" alt="SqLite" height="80" width="80" src="https://github.com/user-attachments/assets/f583f84e-c375-4a9e-9049-ef0c12c1dd2c">
 
@@ -75,7 +73,7 @@
 <img align="left" alt="POO" height="80" width="80" src="https://github.com/user-attachments/assets/27ab2d4a-12db-48d8-aa0c-660a3ed245f9">
 <img align="left" alt="Java" height="80" width="80" src="https://github.com/user-attachments/assets/aaa7e046-0042-47b9-81a6-85bf903608e7">
 <img align="left" alt="Spring" height="80" width="80" src="https://github.com/user-attachments/assets/a435ddf2-bfae-41eb-96c4-e9c6b7e0fb68">
-<img align="left" alt="SpringBoot" height="80" width="80" src="https://github.com/user-attachments/assets/ec148af0-471f-4a68-b916-494a92151a65">
+<img align="left" alt="SpringBoot" height="80" width="80" src="https://github.com/user-attachments/assets/14ac7fa4-5111-4b34-9f45-b570d091deac">
 
 </div>
 
