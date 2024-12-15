@@ -72,11 +72,10 @@
 <br> 
 <h2 align="left"> Studying in this moment: </h2>
 <div align="left"> 
-  
-
 <img align="left" alt="POO" height="80" width="80" src="https://github.com/user-attachments/assets/27ab2d4a-12db-48d8-aa0c-660a3ed245f9">
 <img align="left" alt="Java" height="80" width="80" src="https://github.com/user-attachments/assets/aaa7e046-0042-47b9-81a6-85bf903608e7">
 <img align="left" alt="Spring" height="80" width="80" src="https://github.com/user-attachments/assets/a435ddf2-bfae-41eb-96c4-e9c6b7e0fb68">
+<img align="left" alt="SpringBoot" height="80" width="80" src="https://github.com/user-attachments/assets/ec148af0-471f-4a68-b916-494a92151a65">
 
 </div>
 
